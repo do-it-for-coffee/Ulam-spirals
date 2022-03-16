@@ -1,5 +1,5 @@
 # Ulam-spirals
-Makes Ulam spirals of a sequence.
+Makes Ulam spirals of a sequence like [those in my gallery](https://nate.mrvichin.com/ulam-spirals/).
 
 ![sample](/sample.png)
 
