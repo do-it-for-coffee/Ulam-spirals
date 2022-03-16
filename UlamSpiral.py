@@ -294,7 +294,7 @@ class UlamSpiral:
     def is_octogonal(self, x):
 
         '''
-        Return True if x ia octogonal an False otherwise.
+        Return True if x is octogonal and False otherwise.
         '''
 
         for y in range(1, x+1):
