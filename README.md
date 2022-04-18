@@ -30,13 +30,13 @@ colors = [[[130, 106, 237],
            [83, 141, 34]]]
 ```
 
-_Sides_ is the number pixels wide/tall for the PNG square. An odd number is required since the Ulam spiral requires a center pixel, which means the same number of pixels to the left, to the right, above, and underneath the center pixel.
+`sides` is the number pixels wide/tall for the PNG square. An odd number is required since the Ulam spiral requires a center pixel, which means the same number of pixels to the left, to the right, above, and underneath the center pixel.
 
 ```
 sides = [1001]
 ```
 
-_Modes_ is a bit more complicated for Ulam spirals in that it requares a function written to return True or False for whether a number is in a sequence or not.
+`modes` is a bit more complicated for Ulam spirals in that it requares a function written to return True or False for whether a number is in a sequence or not.
 
 ```
 modes = ['a050704']
