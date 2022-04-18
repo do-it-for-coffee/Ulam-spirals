@@ -19,7 +19,7 @@ This requires a few packages.
 * PIL
 
 # run the script
-_Colors_ is a color pallette.
+`colors` is a color pallette.
 
 ```
 colors = [[[130, 106, 237],
